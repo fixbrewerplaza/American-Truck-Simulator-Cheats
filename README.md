@@ -1,13 +1,10 @@
 # 🎮 American Truck Simulator Cheats Cheats
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
 
-Latest Version: v1.0.0 • File Size: ~156 MB
 
 
 > ⚡ Advanced Game Modification Project for American Truck Simulator Cheats
 
-Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
 
 !Version
 !Status
@@ -163,6 +160,6 @@ configs/
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
 
-Latest Version: v1.0.0 • File Size: ~156 MB
+
+
